@@ -1,2 +1,2 @@
 # TUITweak
-Termux User Interface Tweak
+Terminal Interface Tweak 
